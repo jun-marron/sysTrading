@@ -1,0 +1,35 @@
+2022/05/03 01:28:01 main.go:13: test
+2022/05/03 01:28:01 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 18:55:47 main.go:13: test
+2022/05/05 18:55:47 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 18:55:47 yahooFinance.go:246: action=GetQuery err=json: cannot unmarshal object into Go value of type error
+2022/05/05 19:00:54 main.go:13: test
+2022/05/05 19:00:54 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 19:00:56 yahooFinance.go:246: action=GetQuery err=json: cannot unmarshal object into Go value of type error
+2022/05/05 20:15:19 main.go:11: test
+2022/05/05 20:15:33 main.go:11: test
+2022/05/05 20:15:54 main.go:11: test
+2022/05/05 20:17:09 main.go:13: test
+2022/05/05 20:18:46 yahooFinance.go:249: action=GetQuery err=unexpected end of JSON input
+2022/05/05 20:20:13 main.go:13: test
+2022/05/05 20:20:13 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:21:45 main.go:13: test
+2022/05/05 20:21:45 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:23:59 main.go:13: test
+2022/05/05 20:23:59 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:28:44 main.go:13: test
+2022/05/05 20:28:44 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:30:56 main.go:13: test
+2022/05/05 20:30:56 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:33:22 main.go:13: test
+2022/05/05 20:33:22 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:33:59 main.go:13: test
+2022/05/05 20:33:59 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:34:45 main.go:13: test
+2022/05/05 20:34:45 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:36:08 main.go:13: test
+2022/05/05 20:36:08 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 20:36:40 main.go:13: test
+2022/05/05 20:36:40 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 21:40:14 main.go:101: test
+2022/05/05 21:53:58 main.go:101: test
