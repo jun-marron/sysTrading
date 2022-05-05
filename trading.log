@@ -39,3 +39,11 @@
 2022/05/05 22:42:25 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
 2022/05/05 22:43:21 main.go:13: test
 2022/05/05 22:43:21 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 23:10:00 main.go:13: test
+2022/05/05 23:10:00 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/06 00:56:29 main.go:13: test
+2022/05/06 00:56:29 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/06 02:40:45 main.go:13: test
+2022/05/06 02:40:45 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v8/finance/chartSPXL
+2022/05/06 02:41:41 main.go:13: test
+2022/05/06 02:41:41 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v8/finance/chart/SPXL/
