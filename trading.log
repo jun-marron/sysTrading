@@ -33,3 +33,9 @@
 2022/05/05 20:36:40 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
 2022/05/05 21:40:14 main.go:101: test
 2022/05/05 21:53:58 main.go:101: test
+2022/05/05 22:20:42 main.go:13: test
+2022/05/05 22:20:42 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 22:42:25 main.go:13: test
+2022/05/05 22:42:25 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
+2022/05/05 22:43:21 main.go:13: test
+2022/05/05 22:43:21 yahooFinance.go:39: action=doRequest endpoint=https://yfapi.net/v6/finance/quote
